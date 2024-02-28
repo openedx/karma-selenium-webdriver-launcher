@@ -1,6 +1,6 @@
 {
   "name": "karma-selenium-webdriver-launcher",
-  "version": "0.0.4",
+  "version": "0.0.4-openedx.0",
   "description": "A Karma plugin. Run tests in an instance of a Selenium Webdriver.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/PixnBits/karma-selenium-webdriver-launcher.git"
+    "url": "git://github.com/openedx/karma-selenium-webdriver-launcher.git"
   },
   "keywords": [
     "karma-plugin",
@@ -21,7 +21,7 @@
   },
   "peerDependencies": {
     "karma": ">=0.9",
-    "selenium-webdriver": "^2.44.0"
+    "selenium-webdriver": ">=2.44.0"
   },
   "license": "MIT",
   "devDependencies": {
